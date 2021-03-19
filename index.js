@@ -10,7 +10,7 @@ import routesFromUsers from './routes/users.js';
 const app = express(); // Intitializing Express by calling it as a function.
                        // The basis of our entire application lies on this function. 
 
-const PORT = 8080;     // I am from a Java background, so I will select this port for listening.
+const PORT = process.env.PORT || 8080;     // I am from a Java background, so I will select this port for listening.
 
 
 app.use(bodyParser.json()); // We are going to be using JSON Data in our application.
