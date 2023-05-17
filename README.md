@@ -43,23 +43,19 @@ To interact with the API and perform CRUD operations on users, you can follow th
 
 Here are some screenshots demonstrating the usage of the API:
 
-![Figure 1: GET command for fetching the Homepage](/screenshots/homepage_get.png)
+[Figure 1: GET command for fetching the Homepage](/screenshots/homepage_get.png)
 
-![Figure 2: GET command for fetching the list of Users](/screenshots/users_get.png)
+[Figure 2: GET command for fetching the list of Users](/screenshots/users_get.png)
 
-![Figure 3: Adding a User through POST with JSON format](/screenshots/user_post.png)
+[Figure 3: Adding a User through POST with JSON format](/screenshots/user_post.png)
 
-![Figure 4: Confirmation message for successful user addition](/screenshots/user_added.png)
+[Figure 4: Confirmation message for successful user addition](/screenshots/user_added.png)
 
-![Figure 5: Viewing the updated Users list with GET](/screenshots/users_get_updated.png)
+[Figure 5: Viewing the updated Users list with GET](/screenshots/users_get_updated.png)
 
-![Figure 6: Normal users displayed in the API](/screenshots/normal_users.png)
+[Figure 6: Normal users displayed in the API](/screenshots/normal_users.png)
 
-![Figure 7: Updating user credentials with PATCH](/screenshots/user_patch.png)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+[Figure 7: Updating user credentials with PATCH](/screenshots/user_patch.png)
 
 ---
 
