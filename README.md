@@ -1,4 +1,3 @@
-```markdown
 # CMPE 328 - Cloud Computing RESTful API with Web Server Deployment
 
 **Homework #1**
@@ -54,10 +53,14 @@ Here are some screenshots demonstrating the usage of the API:
 
 ![Figure 5: Viewing the updated Users list with GET](/screenshots/users_get_updated.png)
 
-![Figure 6: Updating user credentials with PATCH](/screenshots/user_patch.png)
+![Figure 6: Normal users displayed in the API](/screenshots/normal_users.png)
 
+![Figure 7: Updating user credentials with PATCH](/screenshots/user_patch.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-I hope you find this API implementation and its usage instructions helpful. If you have any questions or feedback, please feel free to reach out. Enjoy exploring and working with the RESTful API!
-```
+We hope you find this API implementation and its usage instructions helpful. If you have any questions or feedback, please feel free to reach out. Enjoy exploring and working with the RESTful API!
